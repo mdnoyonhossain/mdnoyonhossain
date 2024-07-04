@@ -1,4 +1,4 @@
-[![](https://www.canva.com/design/DAGJ92kn1PA/_IHIeBu3mLXtWQ0OyWzRuw/view?utm_content=DAGJ92kn1PA&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://www.linkedin.com/in/md-nayon-hossain/)<!-- If you want the template for my gif, email me! -->
+[![](https://github.com/mdnoyonhossain/mdnoyonhossain/blob/main/images/banner.png)](https://www.linkedin.com/in/md-nayon-hossain/)<!-- If you want the template for my gif, email me! -->
 
 ## 💻 About
 Experienced Software Developer | Front-End Specialist | Back-End Expert
@@ -39,9 +39,9 @@ Strong understanding of Object-Oriented Programming (OOP) concepts and SDLC. Exp
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 
 ## :mailbox: Reach Me Out
-[<img height="80" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Linkedin.png">](https://www.linkedin.com/in/md-nayon-hossain/)
-[<img height="80" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Facebook.png">](#)
-[<img height="80" src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/Twitter.png"> </p>](#)
+[<img height="80" src="https://github.com/mdnoyonhossain/mdnoyonhossain/blob/main/images/Linkedin.png">](https://www.linkedin.com/in/md-nayon-hossain/)
+[<img height="80" src="https://github.com/mdnoyonhossain/mdnoyonhossain/blob/main/images/Facebook.png">](#)
+[<img height="80" src="https://github.com/mdnoyonhossain/mdnoyonhossain/blob/main/images/Twitter.png"> </p>](#)
 
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="">  
