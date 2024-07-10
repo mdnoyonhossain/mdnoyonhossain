@@ -36,7 +36,8 @@ Strong understanding of Object-Oriented Programming (OOP) concepts and SDLC. Exp
   ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
   ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  <img src="https://komarev.com/ghpvc/?username=mdnoyonhossain&style=flat-square&color=blue" alt=""/>
 
 ## :mailbox: Reach Me Out
 [<img height="80" src="https://github.com/mdnoyonhossain/mdnoyonhossain/blob/main/images/Linkedin.png">](https://www.linkedin.com/in/md-nayon-hossain/)
