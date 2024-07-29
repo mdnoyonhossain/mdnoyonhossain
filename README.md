@@ -1,10 +1,7 @@
 [![](https://github.com/mdnoyonhossain/mdnoyonhossain/blob/main/images/banner.png)](https://www.linkedin.com/in/md-nayon-hossain/)<!-- If you want the template for my gif, email me! -->
 
 ## 💻 About
-Experienced Software Developer | Front-End Specialist | Back-End Expert
-Hands-on experience in developing and implementing enterprise-level software solutions, I specialize in application analysis, design, and development using Front End, Backend, and Database. I excel in translating complex business requirements into efficient database designs and robust software solutions.
-
-Strong understanding of Object-Oriented Programming (OOP) concepts and SDLC. Expertise in database modeling, performance tuning, and query optimization. Skilled in transforming business logic into database architecture and stored procedures. Experienced in all phases of software development lifecycle, from requirement gathering to deployment and maintenance. Proven ability to lead teams and manage multiple concurrent projects. Excellent communication and interpersonal skills, adaptable to cross-functional teams
+I am a passionate Software Developer specializing in programming and technology. Proficient in both front-end and back-end development, I excel in using technologies like React.js, Next.js, Node.js, and Express.js. My expertise extends to database management with PostgreSQL, MongoDB, and MySQL. Committed to continuous learning, I stay updated with the latest industry trends and leverage tools like Docker, AWS, and GitHub to deliver high-quality solutions. Driven by a passion for innovation, I thrive in collaborative environments and aim to create impactful digital experiences.
 
 ## 💻 Languages and Tools
 
